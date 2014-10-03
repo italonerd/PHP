@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/34/trunk/blogifpb/class/dao
+END
+PostDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/blogifpb/class/dao/PostDAO.class.php
+END
+UsuarioDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/blogifpb/class/dao/UsuarioDAO.class.php
+END
+DAOFactory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/blogifpb/class/dao/DAOFactory.class.php
+END
+CategoriaDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/20/trunk/blogifpb/class/dao/CategoriaDAO.class.php
+END
+ComentarioDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/34/trunk/blogifpb/class/dao/ComentarioDAO.class.php
+END

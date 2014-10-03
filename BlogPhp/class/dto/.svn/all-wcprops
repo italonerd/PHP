@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/34/trunk/blogifpb/class/dto
+END
+Post.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/blogifpb/class/dto/Post.class.php
+END
+Usuario.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/blogifpb/class/dto/Usuario.class.php
+END
+Categoria.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/20/trunk/blogifpb/class/dto/Categoria.class.php
+END
+Comentario.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/20/trunk/blogifpb/class/dto/Comentario.class.php
+END

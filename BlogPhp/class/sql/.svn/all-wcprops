@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/33/trunk/blogifpb/class/sql
+END
+SqlQuery.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/33/trunk/blogifpb/class/sql/SqlQuery.class.php
+END
+Transaction.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/blogifpb/class/sql/Transaction.class.php
+END
+ConnectionFactory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/blogifpb/class/sql/ConnectionFactory.class.php
+END
+Connection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/blogifpb/class/sql/Connection.class.php
+END
+ConnectionProperty.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/trunk/blogifpb/class/sql/ConnectionProperty.class.php
+END
+QueryExecutor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/blogifpb/class/sql/QueryExecutor.class.php
+END

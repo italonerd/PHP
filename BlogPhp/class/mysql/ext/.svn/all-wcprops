@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/20/trunk/blogifpb/class/mysql/ext
+END
+CategoriaMySqlExtDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20/trunk/blogifpb/class/mysql/ext/CategoriaMySqlExtDAO.class.php
+END
+ComentarioMySqlExtDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20/trunk/blogifpb/class/mysql/ext/ComentarioMySqlExtDAO.class.php
+END
+PostMySqlExtDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20/trunk/blogifpb/class/mysql/ext/PostMySqlExtDAO.class.php
+END
+UsuarioMySqlExtDAO.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20/trunk/blogifpb/class/mysql/ext/UsuarioMySqlExtDAO.class.php
+END
